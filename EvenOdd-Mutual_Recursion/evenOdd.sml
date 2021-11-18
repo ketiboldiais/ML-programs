@@ -1,5 +1,3 @@
-
-
 fun isEven n =	
 	let fun is_even n = 
 		if n = 0 then true
